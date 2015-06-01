@@ -24,16 +24,16 @@ a:active {
 		font-size: 3em;
 		margin-bottom: 2px;
 		margin-top: 0.45em;
-		}
+	}
 		
 	h3 {
 		font-size: 1.6em;
 		padding-left: 10px;
-		}
+	}
 		
 	h4 {
 		font-size: 1.8em;
-		}
+	}
 		
 	p {
 		font-size: .7em;
@@ -46,20 +46,20 @@ a:active {
 		font-size: 2.6em;
 		margin-bottom: 2px;
 		margin-top: 0.60em;
-		}
+	}
 		
 	h3 {
 		font-size: 1.2em;
 		padding-left: 6px;
-		}
+	}
 		
 	h4 {
 		font-size: 1.4em;
-		}
+	}
 
 	p {
 		font-size: .6em;
-		}
+	}
 }
 
 
@@ -69,20 +69,20 @@ a:active {
 		font-size: 2.3em;
 		margin-bottom: 2px;
 		margin-top: 0.70em;
-		}
+	}
 		
 	h3 {
 		font-size: 1em;
 		padding-left: 3px;
-		}
+	}
 		
 	h4 {
 		font-size: 1.2em;
-		}
+	}
 
 	p {
 		font-size: .5em;
-		}
+	}
 }
 
 /* Tablets */
@@ -103,14 +103,14 @@ a:active {
 		width: 100%;
 		text-align: center;
 		margin: 0px;
-		}
+	}
 	
 	h1 {
 		text-align: center;
 		font-weight: 300;
 		text-transform: uppercase;
 		font-size: 1.3em;
-		}
+	}
 	
 	h2 {
 		text-align: center;
@@ -118,40 +118,40 @@ a:active {
 		text-transform: uppercase;
 		font-size: 0.8em;
 		margin-top: 0px;
-		}
+	}
 	
 	.logo {
 		width: 100px;
-		}
+	}
 	
 	.logo-box {
 		height: 85px;
-		}
+	}
 		
 	.container {
 	    width: 100%;
 		margin: 0px;
-		}
+	}
 	
 	body {
 		margin: 0px;
-		}
+	}
 		
 	.thumb {
 		margin-bottom: 0px;
 		padding:25px 0px 8px 0px;
-		}
+	}
 	
 	.grey-bar {
 		display: none;
-		}
+	}
 	
 	h3 {
 		line-height: 0px;
 		padding-top: 14px;
 		padding-bottom: 0px;
 		font-size: 1.2em;
-		}
+	}
 }
 
 /* Mobile Devices */
