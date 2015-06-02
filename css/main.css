@@ -27,8 +27,7 @@ a:active {
 @media only screen and (min-width: 768px) {
 	h1 {
 		font-size: 3em;
-		margin-bottom: 2px;
-		margin-top: 0.45em;
+		margin: 20px 0 2px 0;
 	}
 		
 	h3 {
@@ -281,7 +280,7 @@ figcaption {
 h3 {
 	font-weight: 400;
 	letter-spacing: 0.02em;
-	color: #BCBBBB;
+	color: #bcbbbb;
 	margin-bottom: 0.35em;
 	margin-top: 1.5em;
 }
